@@ -5,6 +5,8 @@
     "author": "Shirkie",
     "version": "0.0.1",
     "minimumCoreVersion": "0.6.2",
+    "manifest": "https://github.com/shirkie/foundry-test/raw/master/module.json",
+    "download": "https://github.com/shirkie/foundry-test/archive/master.zip",
     "scripts": [
         "scripts/hello.js"
     ]
